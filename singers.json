@@ -86,7 +86,11 @@
                             "Title": "Ambitious",
                             "Released": "2015-04-27T21:00:00.000Z",
                             "Genre": "Dance-pop R&B",
-                            "Album": "Initiation"
+                            "Album": "Initiation",
+                             "Lyrics": [
+    { "Line": 1, "Text": "Looking at the skyline…" },
+    { "Line": 2, "Text": "Dreams are calling out…" }
+  ]
                         },
                         {
                             "Number": 2,
