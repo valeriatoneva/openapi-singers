@@ -3,7 +3,7 @@
         {
             "ID": 42,
             "Artist": "Naomí Yepes",
-            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/naomi.jpg",
+            "Photo.Url": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/naomi.jpg",
             "Debut": 2011,
             "GrammyNominations": 6,
             "GrammyAwards": 0,
